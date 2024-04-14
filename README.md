@@ -1,4 +1,5 @@
-School Management System
+## School Management System
 
-Use PHP, HTML, CSS, Javascipt
+## Công nghệ sử dụng
+- PHP, HTML, CSS, Javascipt
 
